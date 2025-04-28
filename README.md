@@ -1,2 +1,2 @@
 # Flappy-bird
-https://shuvajitdn.github.io/Flappy-bird/
+https://shuvajit-flappy-bird.netlify.app/
